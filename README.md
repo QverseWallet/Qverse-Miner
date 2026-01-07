@@ -19,8 +19,8 @@ Download the latest release from [Releases](https://github.com/QverseWallet/Qver
 tar -xzvf Qverse-Miner-Linux-0.1.tar.gz
 
 # Run
-chmod +x qverse_miner
-./qverse_miner --algo qhash --url stratum+tcp://stratum.qverse.pro:25565 --user YOUR_WALLET.worker --pass x
+chmod +x qverse_miner start_mining.sh
+./start_mining.sh
 ```
 
 ## Options
